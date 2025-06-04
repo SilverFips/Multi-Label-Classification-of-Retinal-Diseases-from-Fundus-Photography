@@ -6,5 +6,4 @@ This project explores the use of convolutional neural networks and attention-bas
 
 ## 🖼️ Poster
 
-[📄 View Poster (PDF)](poster.pdf)
-
+![Poster Preview](poster.png)
